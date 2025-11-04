@@ -1,0 +1,9 @@
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityConsole\bin\Debug\LoveCompatibilityConsole.exe
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityConsole\bin\Debug\LoveCompatibilityConsole.pdb
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityConsole\bin\Debug\Love_Compatibility.dll
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityConsole\bin\Debug\Love_Compatibility.pdb
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityConsole\obj\Debug\LoveCompatibilityConsole.csproj.AssemblyReference.cache
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityConsole\obj\Debug\LoveCompatibilityConsole.csproj.CoreCompileInputs.cache
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityConsole\obj\Debug\LoveComp.E9D83E02.Up2Date
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityConsole\obj\Debug\LoveCompatibilityConsole.exe
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityConsole\obj\Debug\LoveCompatibilityConsole.pdb

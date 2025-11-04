@@ -1,0 +1,6 @@
+D:\dev_web\solution\LOVE_COMPATIBILITY\Love_Compatibility\bin\Debug\Love_Compatibility.dll
+D:\dev_web\solution\LOVE_COMPATIBILITY\Love_Compatibility\bin\Debug\Love_Compatibility.pdb
+D:\dev_web\solution\LOVE_COMPATIBILITY\Love_Compatibility\obj\Debug\Love_Compatibility.csproj.AssemblyReference.cache
+D:\dev_web\solution\LOVE_COMPATIBILITY\Love_Compatibility\obj\Debug\Love_Compatibility.csproj.CoreCompileInputs.cache
+D:\dev_web\solution\LOVE_COMPATIBILITY\Love_Compatibility\obj\Debug\Love_Compatibility.dll
+D:\dev_web\solution\LOVE_COMPATIBILITY\Love_Compatibility\obj\Debug\Love_Compatibility.pdb

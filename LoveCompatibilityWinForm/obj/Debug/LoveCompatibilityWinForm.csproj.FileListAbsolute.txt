@@ -1,0 +1,12 @@
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityWinForm\obj\Debug\LoveCompatibilityWinForm.csproj.AssemblyReference.cache
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityWinForm\obj\Debug\LoveCompatibilityWinForm.Form1.resources
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityWinForm\obj\Debug\LoveCompatibilityWinForm.Properties.Resources.resources
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityWinForm\obj\Debug\LoveCompatibilityWinForm.csproj.GenerateResource.cache
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityWinForm\obj\Debug\LoveCompatibilityWinForm.csproj.CoreCompileInputs.cache
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityWinForm\bin\Debug\LoveCompatibilityWinForm.exe
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityWinForm\bin\Debug\LoveCompatibilityWinForm.pdb
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityWinForm\bin\Debug\Love_Compatibility.dll
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityWinForm\bin\Debug\Love_Compatibility.pdb
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityWinForm\obj\Debug\LoveComp.70C7BEF5.Up2Date
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityWinForm\obj\Debug\LoveCompatibilityWinForm.exe
+D:\dev_web\solution\LOVE_COMPATIBILITY\LoveCompatibilityWinForm\obj\Debug\LoveCompatibilityWinForm.pdb
